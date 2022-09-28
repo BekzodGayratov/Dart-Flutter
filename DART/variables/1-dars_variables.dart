@@ -18,3 +18,6 @@ num raqam = 10;
 num raqam2 =
     11.0; // int yoki double o'zgaruvchilarini o'zida saqlaydi faqat raqam bo'lsa bo'lgani.
 
+
+
+// Non-primitive (Reference) ya'ni 
