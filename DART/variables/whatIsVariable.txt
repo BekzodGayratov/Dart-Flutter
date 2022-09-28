@@ -1,7 +1,5 @@
 O'zgaruvchi bu - ma'lum bir qiymatni saqlovchi obyekt.
-
 Eslatma: O'zgaruvchilar qiymat olishi, qayta qiymat olishi, hamda qiymatni o'chirishi mumkin.
-
 
 1. Savol: O'zgaruvchilar qanday ishlaydi? 
 
@@ -10,3 +8,6 @@ Javob: O'zgaruvchilar avval e'lon qilinadi, so'ng unga nom beriladi, va qiymat b
 Masalan, 
 String ism = "Abdulloh";
 Bu yerda String ism - o'zgaruvchiga nom berish, String ism = "Abdulloh" - esa unga qiymat berish degani.
+
+
+1-DARSNI OCHING !!!
