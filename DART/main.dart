@@ -3,6 +3,6 @@
 void main() {
   // Dart fayli ishga tushganida birinchi bo'lib ushbu funksiyani ishga tushuradi.
   // Endi kodimizni yozishimiz mumkin. Masalan,
-  print("FinTech company");
+  print("SALOM DUNYO");
   // Qolgan barcha o'zimiz kiritgan funksiyalarimiz shu yerda chaqiriladi.
 }
