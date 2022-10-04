@@ -1,4 +1,0 @@
-1. O'zgaruvchilar xususiyatlari.
-2. O'zgaruvchilar methodlari.
-3. Condititonslar.
-3. Amaliy mashg'ulot.

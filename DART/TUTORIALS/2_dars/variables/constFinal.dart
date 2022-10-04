@@ -13,7 +13,7 @@ void main() {
   const ism = "Abdulloh";
   // Agar unga e'lon qilib lekin qiymat bermasak xatolik bo'ladi.
   // Masalan:
-  const ism2 ; // => XATO
+  //const ism2 ; // => XATO
 
   // CONST, Masalan:
   final ism3 = "Abdulloh";

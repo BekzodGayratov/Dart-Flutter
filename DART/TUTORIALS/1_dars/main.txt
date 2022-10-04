@@ -1,3 +1,0 @@
-1. O'zgaruvchilar haqida tushuncha 
-2. Dart dasturlash tilidagi o'zgaruvchilar.
- 
