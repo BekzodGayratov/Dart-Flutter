@@ -1,4 +1,4 @@
-void main(){
-  // Dasturlash asoslari.
-  // Flutter kursi uchun insightlar.
+void main() {
+  // Dart dasturlash tili asoslari.
+  // Flutter nima?
 }
