@@ -1,8 +1,8 @@
-// import 'main.dart';
+import 'main.dart';
 
-// void main() {
-//   Student s = Student();
-//   s.set_name = "Dart";
+void main() {
+  Student s = Student();
+  s.set_name = "Dart";
 
-//   print(s.name);
-// }
+  print(s.name);
+}

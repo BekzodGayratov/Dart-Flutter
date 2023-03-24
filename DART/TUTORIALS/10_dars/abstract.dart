@@ -1,4 +1,3 @@
-import '../8_dars/super.dart';
 
 void main() {
   Ferrari ferrari = Ferrari();
